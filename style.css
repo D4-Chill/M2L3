@@ -1,8 +1,39 @@
 body{
-    background-color: rgba(31, 116, 228, 0.925);
+    background-color: rgb(69, 141, 189);
 }
 h1{
-    font-size: 70px;
+    font-size: 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(228, 228, 228)
     
+}
+p{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(228, 228, 228)
+
+}
+img{
+    width: 45%;
+}
+   
+li{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(165, 20, 20)
+}
+h2{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(165, 20, 20)
+}
+h3{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(23, 92, 32)
+}
+h4{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(9, 49, 11) 
 }
